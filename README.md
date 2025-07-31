@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working for a client.
 - 🌱 I’m currently learning React.js.
 - 💬 Ask me about Javascript, React.js.
 - 📫 How to reach me: [https://discord.com/users/882452170631421993](https://discord.com/users/882452170631421993)
